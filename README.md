@@ -5,13 +5,16 @@ A bot that plays osu! kind of...
 This script is fairly simple. It retrieves the map data and simulates key presses to hit the notes.
 All you'll have to do is move your cursor and let the bot hit the notes.
 
+## DISCLAIMERS!:
+Use at your own risk. I am not responsible since this breaks the rules of the game. So log out before you run it.
+
 ## Installation
 
 ### Requirements
 - Windows
+- A working brain
 - [osu!](https://osu.ppy.sh/home/download) 
 - [Python](https://www.python.org/downloads/)
-- A Working brain
 
 ### Steps
 1. Ensure you are on Windows.
