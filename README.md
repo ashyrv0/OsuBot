@@ -21,5 +21,6 @@ All you'll have to do is move your cursor and let the bot hit the notes.
 6. Follow the instructions provided by the program.
 
 ## Notes
+I might add more features if I dont feel lazy.
 
 If you encounter any issues, feel free to open an [issue](https://github.com/ashyrv0/OsuBot/issues).
