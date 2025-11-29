@@ -1,22 +1,25 @@
 # OsuBot
-A bot that plays osu!
 
-Soon if I can debug all the bugs...
+A bot that plays osu! kind of...
 
+This script is fairly simple. It retrieves the map data and simulates key presses to hit the notes.
+All you'll have to do is move your cursor and let the bot hit the notes.
 
 ## Installation
 
-Requirements: 
-- be on windows
-- have a brain
-- Python
+### Requirements
+- Windows
+- [osu!](https://osu.ppy.sh/home/download) 
+- [Python](https://www.python.org/downloads/)
+- A Working brain
 
-```
-2. Have Python installed;
-3. Run `main.py`;
-4. Follow the instructions given by the program.
-```
+### Steps
+1. Ensure you are on Windows.
+2. Install [Python](https://www.python.org/downloads/) if you haven't already.
+4. Run `main.py`.
+5. Open osu!
+6. Follow the instructions provided by the program.
 
 ## Notes
 
-If you run into issues, open an [issue](https://github.com/ashyrv0/OsuBot/issues).
+If you encounter any issues, feel free to open an [issue](https://github.com/ashyrv0/OsuBot/issues).
